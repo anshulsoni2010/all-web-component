@@ -27,7 +27,7 @@ body {
 }
 
 .header .logo {
-  height: 3rem;
+  height: 4.3rem;
 }
 
 .navbar-list {
@@ -109,7 +109,7 @@ Responsive Codes
   }
 
   .header .logo {
-    width: 40%;
+    width: 30%;
   }
 
   .navbar {
